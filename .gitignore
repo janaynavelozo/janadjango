@@ -1,0 +1,7 @@
+*.pyc
+*˜
+__pycache__
+janavirtual
+db.sqlite3
+/static
+.DS_Store
